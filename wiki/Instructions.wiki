@@ -1,13 +1,20 @@
-clementine-webremote
+=clementine-webremote=
 
-Instructions:
- - Uncompress it.
- - Launch with: ./http.py --port 3000
- - If you get an error, try launching it with: python2 http.py --port 3000
- - Open in your browser: http://<host>:3000
+==Instructions:==
+----
+  Uncompress it.
 
-Requirements:
+  Launch with: ./http.py --port 3000
+
+  If you get an error, try launching it with: python2 http.py --port 3000
+
+  Open in your browser: `http://<host>:3000`
+
+==Requirements:==
+----
  - Python2
+
  - Clementine
 
+==Project page==
 http://code.google.com/p/clementine-webremote/
