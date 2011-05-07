@@ -14,7 +14,10 @@
 ----
  - Python2
 
+ - python-qt4-dbus
+
  - Clementine
+
 
 ==Project page==
 http://code.google.com/p/clementine-webremote/
